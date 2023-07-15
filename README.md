@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Emoji App
+
+This is app is built to display emoji. User can search emoji based on category
+
+## App is made using React and Material Ui
+
+# Setup
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
