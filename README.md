@@ -1,6 +1,7 @@
 # Emoji App
 
 This is app is built to display emoji. User can search emoji based on category
+![](./readme_img.jpg)
 
 ## App is made using React and Material Ui
 
